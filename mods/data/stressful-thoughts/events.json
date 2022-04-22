@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "exampleStage",
+		"player1": "tankmansus",
+		"player2": "avadonmad",
+		"player3": null,
+		"events": [
+			[
+				39909.0909090909,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0.3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfbf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "stressful thoughts"
+	}
+}

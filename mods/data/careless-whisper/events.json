@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "exampleStage",
+		"player1": "Tankysussy",
+		"player2": "hornyavadon",
+		"player3": null,
+		"events": [
+			[
+				167181.818181818,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				173727.272727272,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfbf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "careless-whisper"
+	}
+}
