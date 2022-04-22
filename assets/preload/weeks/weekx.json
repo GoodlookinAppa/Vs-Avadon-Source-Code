@@ -1,0 +1,76 @@
+{
+	"storyName": "avadon",
+	"difficulties": "Easy, Normal, Hard, Hot",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"avadon",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sexy",
+			"avadon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"horny",
+			"avadonsus",
+			[
+				255,
+				33,
+				135
+			]
+		],
+		[
+			"love-guns",
+			"avadonmad",
+			[
+				240,
+				120,
+				0
+			]
+		],
+		[
+			"stressful-thoughts",
+			"avadonmad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"injustice",
+			"avadon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"closure",
+			"avadon",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "avodon"
+}

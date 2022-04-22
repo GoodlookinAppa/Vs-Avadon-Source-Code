@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "exampleStage",
+		"player1": "tankmansus",
+		"player2": "avasussydon",
+		"player3": null,
+		"events": [
+			[
+				22090.9090909091,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"BF"
+					]
+				]
+			],
+			[
+				31636.3636363636,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfbf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "horny"
+	}
+}

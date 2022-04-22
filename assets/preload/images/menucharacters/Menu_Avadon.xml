@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Avadon.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Avadon IDLE0000" x="0" y="0" width="492" height="891" frameX="-8" frameY="-22" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0001" x="492" y="0" width="492" height="898" frameX="-8" frameY="-15" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0002" x="984" y="0" width="488" height="906" frameX="-8" frameY="-7" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0003" x="1472" y="0" width="488" height="910" frameX="-7" frameY="-3" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0004" x="0" y="910" width="488" height="910" frameX="-6" frameY="-3" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0005" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0006" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0007" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0008" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0009" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0010" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0011" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0012" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0013" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0014" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0015" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0016" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0017" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0018" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0019" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0020" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0021" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0022" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0023" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+	<SubTexture name="Avadon IDLE0024" x="488" y="910" width="486" height="913" frameX="0" frameY="0" frameWidth="500" frameHeight="913"/>
+</TextureAtlas>

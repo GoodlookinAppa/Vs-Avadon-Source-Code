@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "that's a good one"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Avasussydon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "avadonsus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-290,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
